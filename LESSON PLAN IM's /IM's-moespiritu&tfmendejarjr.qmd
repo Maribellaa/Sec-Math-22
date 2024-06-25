@@ -1,0 +1,358 @@
+---
+title: "Instructional Module"
+author: "Maribel O. Espiritu & Teofilo F. Mendejar Jr."
+format: html
+editor: visual
+---
+
+### **I. UNIT TITLE/CHAPTER TITLE:**
+
+$\qquad$ Module 1: Quadratic Equations and Inequalities
+
+### **II. LESSON TITLE:**
+
+$\qquad$ Lesson 2D. Solving Quadratic Equations Using the Quadratic Formula
+
+### **III. LESSON OVERVIEW:**
+
+$\qquad$ $\qquad$ This module by assessing your knowledge of the different mathematics concepts previously $\qquad$ studied and your skills in performing mathematical operations. These knowledge and skills will help $\qquad$ you understand solving quadratic equations using the quadratic formula. As you go through this $\qquad$ lesson, think of this important question: “How does finding solutions of quadratic equations facilitate $\qquad$ solving real-life problems and making decisions?” To find the answer, perform each activity. If you $\qquad$ recall the previous lessons, the methods are just applicable for a specific quadratic equation. For $\qquad$ example, the process of “factoring” is appropriate only if the quadratic expression is factorable. But $\qquad$ do not worry because there is one process that is applicable for all forms of quadratic equations that $\qquad$ will be tackled in this module. It is all about solving quadratic equations using quadratic formula.
+
+### **IV. DESIRED LEARNING OUTCOMES**
+
+$\qquad$ At the end of this chapter, the student should be able to:
+
+a.  Solve quadratic equations using quadratic formula. **(M9AL-Ib-2.3)**
+
+### **V. LESSON CONTENT**
+
+$\qquad$ $\qquad$ We begin our study of quadratic equations with a look at the concepts of simplifying radicals. $\qquad$ Take note that a simplified radical has none of the factors of radicand can be written as powers $\qquad$ $\qquad$ greater than or equal to the index, there are no fractions under the radical sign and no radicals in  $\qquad$the denominator.
+
+$\qquad$ Study how the given radical expressions are simplified.
+
+a.  $$
+    \begin{aligned}
+    4 + \sqrt{500} &= 4 + \sqrt{(100)(5)}  && \text{Factor out 500 such that one number is the greatest possible perfect square factor.} \\
+    & = 4 + 10\sqrt{5} && \text{Simplify the radical part and combine terms, whenever possible.}
+    \end{aligned}
+    $$
+
+b.  $$
+    \begin{aligned}
+    \dfrac{-6-\sqrt{12}}{4} &= \dfrac{-6-\sqrt{(4)(3)}}{4}  && \text{Factor out 12 such that one number is the possible perfect square factor} \\
+    & =  \dfrac{-6-2\sqrt{3}}{4}&& \text{Simplify the radical part} \\
+    & =  \dfrac{2(-3-\sqrt{3})}{4}&& \text{Factor out the common monomial factor of the numerator, then simplify} \\
+    & =  \dfrac{-3-\sqrt{3}}{2}
+    \end{aligned}
+    $$
+
+#### **Activity 1: It’s Good to Be Simple!**
+
+$\qquad$ Work with a partner in simplifying each of the following expressions.
+
+$\qquad$ 1. $\dfrac{6+ \sqrt{9}}{2(3)}$
+
+$\qquad$ 2. $\dfrac{6- \sqrt{9}}{2(3)}$
+
+$\qquad$ 3. $\dfrac{-6+ \sqrt{18}}{2(2)}$
+
+$\qquad$ 4. $\dfrac{-9+ \sqrt{24}}{2(2)}$
+
+$\qquad$ 5. $\dfrac{-8+ \sqrt{64-28}}{2(-3)}$
+
+$\qquad$ 6. $\dfrac{-6- \sqrt{36-20}}{2(1)}$
+
+$\qquad$ 7. $\dfrac{5+ \sqrt{25+100}}{2(4)}$
+
+$\qquad$ 8. $\dfrac{-10+ \sqrt{10^2-52}}{2(3)}$
+
+$\qquad$ 9. $\dfrac{-4- \sqrt{4^2+16}}{2(4)}$
+
+$\qquad$ 10. $\dfrac{-5+ \sqrt{5^2-4(3)(2)}}{2(3)}$
+
+#### **WHAT’S NEW**
+
+$\qquad$ **Please Throw the Ball!**
+
+$\qquad$ A certain group of boys play a ball outside Erick’s house when one of them accidentally kicked it $\qquad$ hard and went up to Erick’s roof. They requested him to get the ball and throw it back to them. $\qquad$ $\qquad$ Without hesitation, Erick helped them and threw the ball from the roof onto the ground 9.14m $\qquad$ $\qquad$ below. He tossed the ball with an initial downward velocity of 3.05m per second. With H as the $\qquad$ $\qquad$ height of an object after t seconds, v as the initial velocity, and h as the initial height, the condition $\qquad$ above is given by the equation $H = -16t^2 + vt + h$. What will be the equation to find how long $\qquad$ it takes the ball to hit the ground? Do you think the methods of solving quadratic equation that you $\qquad$ have learned in the previous modules will help you solve the equation you made?
+
+#### **WHAT IS IT**
+
+$\qquad$ The quadratic equation that can be formed from the story model earlier is $$H=-16t^2+3.05t+9.14=0.$$ $\qquad$ Do you think the methods discussed previously can be used to solve for the roots of the obtained $\qquad$ equation? Why? There are quadratic equations that are difficult to solve by extracting the square $\qquad$ roots, factoring or even completing the squares. These quadratic equations need a formula that will $\qquad$ help you in solving for their roots.
+
+#### **ACTIVITY 2: Follow the Standards!**
+
+$\qquad$W rite the following quadratic equations in standard form, $ax^2+bx+c=0$. Then, identify the $\qquad$ $\qquad$ values of a, b, and c.
+
+$\qquad$ 1. $2x^2+9x=10$
+
+$\qquad$ 2. $-2x^2=2-7x$
+
+$\qquad$ 3. $6x-1=2x^2$
+
+$\qquad$ 4. $10+7x-3x^2=0$
+
+$\qquad$ 5. $2x(x-6)=5$
+
+$\qquad$ 6. $x(5-2x)+15=0$
+
+$\qquad$ 7. $(x+4)(x+12)=0$
+
+$\qquad$ 8. $(x-6)(x-9)=0$
+
+$\qquad$ 9. $(3x+7)(x-1)=0$
+
+$\qquad$ 10 $3(x-5)^2+10=0$
+
+#### **WHAT IS IN**
+
+$\qquad$ The quadratic formula, $x=\dfrac{-b \pm \sqrt{b^2-4ac}}{2a}$, is derived from standard form of quadratic equation, $ax^2+bx+c=0$ by applying the method of completing the square shown below.
+
+| Steps                                                                                                              | Illustrative                                                                                                                                    |
+|------------------------------------|------------------------------------|
+| 1. Place the constant term on the right side of the equation. All the terms with unknowns are on the left side.   | $$ax^2+bx+c=0 \to ax^2+bx=-c$$                                                                                                                  |
+| 2. Divide each term of the equation with the numerical coefficient of x\^2 if necessary.                          | $$\dfrac{ax^2+bx}{a}=\dfrac{-c}{a} \to x^2+\frac{bx}{a}=\dfrac{-c}{a}$$                                                                         |
+| 3. Get the numerical coefficient of x, divide it by 2 and square it. Add the result to both sides of the equation | $$\dfrac{1}{2} \left( \dfrac{b}{2a} \right) = \dfrac{b}{2a} \to \left( \dfrac{b}{2a} \right)^2 = \dfrac{b^2}{4a^2}$$                            |
+| 4. Factor the perfect square trinomial.                                                                           | $$ x^2 + \dfrac{bx}{a} + \dfrac{b^2}{4a^2} = \dfrac{-c}{a} + \dfrac{b^2}{4a^2} \to \left( x + \dfrac{b}{2a} \right)^2 = \dfrac{b^2-4ac}{4a^2}$$ |
+| 5. Extract the square root from both sides. Two values will be obtained for the right side of the equation.       | $$ x+\dfrac{b}{2a} = \pm \sqrt {\dfrac{b^2-4ac}{4a^2}} \to x+\dfrac{b}{2a} = \pm \dfrac{\sqrt{b^2-4ac}}{2a} $$                                  |
+| 6. Solve for x by transposing $\dfrac{b}{2a}$ on the right of the equation                                        | $$ x = \pm \dfrac{\sqrt{b^2-4ac}}{2a} -\dfrac{b}{2a}$$                                                                                          |
+| 7. Combine like terms on the right side.                                                                          | $$ x = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} $$                                                                                                     |
+
+#### **Example**
+
+Solve for the real roots of each equation using quadratic formula
+
+1.  $x^2-2x-19=0$
+
+$\qquad$ **Solution:**
+
+$\qquad$ $a=1$ $b=-2$ $c=-19$
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-(-2) \pm \sqrt{(-2)^2-4(1)(-19)}}{2(1)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{2 \pm \sqrt{4+76}}{2} && \text{Simplify} \\
+x&= \dfrac{2 \pm \sqrt{80}}{2} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{2 \pm 4\sqrt{5}}{2} \\
+x&= \dfrac{2( 1 \pm 2\sqrt{5})}{2} && \text{Simplify} \\
+x&= 1 \pm 2\sqrt{5}
+\end{aligned}
+$$
+
+2.  $2x^2+6x=-3$
+
+$\qquad$ **Solution:**
+
+$\qquad$ When $2x^2+6x=-3$ is changed to standard form, we have $2x^2+6x+3=0$. The value of $a=2$, $\qquad$ $b=6$, and $c=3$
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-6 \pm \sqrt{(6)^2-4(2)(3)}}{2(2)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{-6 \pm \sqrt{36-24}}{4} && \text{Simplify} \\
+x&= \dfrac{-6 \pm \sqrt{12}}{4} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-6 \pm 4\sqrt{(4)(3)}}{2} \\
+x&= \dfrac{-6\pm 2\sqrt{3})}{2} && \text{Simplify} \\
+x&= \dfrac{-3 \pm \sqrt{3}}{2}
+\end{aligned}
+$$
+
+$\qquad$ The roots are $\dfrac{-3 \pm \sqrt{3}}{2}$
+
+3.$2x^2+3x-27=0$
+
+$\qquad$ **Solution:**
+
+$\qquad$ $a=2$, $b=3$, and $c=-27$
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-3 \pm \sqrt{(3)^2-4(2)(-27)}}{2(2)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{-3 \pm \sqrt{9-(-26)}}{4} && \text{Simplify} \\
+x&= \dfrac{-3 \pm \sqrt{225}}{4} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-3 \pm 15}{4} \\
+x&= \dfrac{-3 + 15}{4} \qquad x=\dfrac{-3 -15}{4} && \text{Simplify} \\
+x&= \dfrac{12}{4} \qquad x=\dfrac{-18}{4} \\
+x&= 3 \qquad x=\dfrac{-9}{2}
+\end{aligned}
+$$
+
+4.  $2x^2+9x=-10$
+
+$\qquad$ **Solution**
+
+$\qquad$ When $2x^2+9x=-10$ is changed to standard form, we have $2x^2+9x+10=0$. The value of $\qquad$ $a=2$, $b=9$, and $c=10$
+
+$$
+\begin{aligned}
+x& = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-9 \pm \sqrt{(9)^2-4(2)(10)}}{2(2)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{-9 \pm \sqrt{81-80}}{4} && \text{Simplify} \\
+x&= \dfrac{-9 \pm \sqrt{1}}{4} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-9 \pm 1}{4} \\
+x&= \dfrac{-9+1}{4}, \qquad x=\dfrac{-9-1}{4} && \text{Simplify} \\
+x&= \dfrac{-8}{4}, \qquad x=\dfrac{-10}{4} \\
+x&= -2, \qquad x=\dfrac{-5}{2}
+\end{aligned}
+$$
+
+5.  $2x^2-3x+4=0$
+
+$\qquad$ **Solution:**
+
+$\qquad$ $a=2$, $b=-3$, and $c=4$
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-(-3) \pm \sqrt{(-3)^2-4(2)(4)}}{2(2)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{3 \pm \sqrt{-23}}{4} && \text{Simplify}
+\end{aligned}
+$$
+
+$\qquad$ Notice that the radicand is negative. It indicates that the roots are non-real.
+
+B. Analyze and Solve.
+
+1.  Erick throws the ball from the roof onto the ground 9.14m below. He tosses the ball with an initial downward velocity of 3.05 m per second. With H as the height of an object after t seconds, v as the initial velocity, and h as the initial height, the condition above is given by the equation $𝐻 = −16𝑡^2 + 𝑣𝑡 + ℎ$, how long does it take for the ball to hit the ground?
+
+$\qquad$ **Solution:**
+
+$\qquad$ This is the story model we had earlier. Given the equation $𝐻 = −16𝑡^2 + 𝑣𝑡 + ℎ$, if the ball hits the $\qquad$ ground then the height, H, is zero. Thus, the quadratic equation is $−16𝑡^2 + 3.05𝑡 + 9.14 = 0$. $\qquad$ $\qquad$ Solving for the time it takes the ball to hit the ground,
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-(3.05) \pm \sqrt{(3.05)^2-4(-16)(9.14)}}{2(-16)} && \text{Substitute the values of a, b and c} \\
+x&= \dfrac{-3.05 \pm \sqrt{9.3025+584.96}}{2(-16)} && \text{Simplify} \\
+x&= \dfrac{-3.05 \pm \sqrt{594.2625}}{-32} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-3.05 \pm 24.38}{-32} \\
+x&= -0.67, \qquad x= 0.86
+\end{aligned}
+$$
+
+$\qquad$ Since $-0.67$ seconds is not possible, thus the will hit the ground in $0.86$ seconds.
+
+**TEST YOURSELF!**
+
+$\qquad$ I. Use the quadratic formula to solve each of the following quadratic equations:
+
+$\qquad$ a. $𝑥^2 − 9𝑥 = −10$
+
+$\qquad$ b. $2𝑚^2 + 13𝑚 + 20 = 0$
+
+$\qquad$ c. $2𝑦^2 + 8𝑦 = 9$
+
+$\qquad$ d. $9𝑡 − 5𝑡^2 = −12$
+
+$\qquad$ e. $3𝑏^2 + 13𝑏 + 20 = 0$
+
+$\qquad$ II. Solve for the unknown in the problem using the quadratic formula.
+
+$\qquad$ The area of a tablecloth is 7 square ft. If the width is 3 feet shorter than the length, then what are the $\qquad$ dimensions of the tablecloth?
+
+#### **VI. LEARNING ACTIVITIES**
+
+**WHAT I CAN DO**
+
+#### **Part I**
+
+$\qquad$ **Activity 3: Solve and Mount**
+
+| Solve each equation using the quadratic formula |              |
+|-------------------------------------------------|--------------|
+| $x^2-2x -35=0$                                  | $3x^2-4x=1$  |
+|                                                 |              |
+| $x^2-3x+1=0$                                    | $2x^2=11x-5$ |
+|                                                 |              |
+| $2x^2-x-5=0$                                    | $x^2+6x-3$   |
+|                                                 |              |
+
+| Answers: |
+|----------|
+| $x=-3 \pm 2\sqrt{3}$ |
+| $x=-5, \qquad x=7$   |
+| $x=\dfrac{3 \pm \sqrt{5}}{2}$  |
+| $x=\dfrac{1 \pm \sqrt{41}}{4}$ |
+| $x=\dfrac{2 \pm \sqrt{7}}{3}$  |
+| $x=\dfrac{1}{2}, \qquad x=5$   |
+
+#### **Part II**
+
+$\qquad$ A. Solve for the real roots of each equation using quadratic formula.
+
+$\qquad$ 1. $x^2-2x-4=0$
+
+$\qquad$ 2. $3x^2+2x-21=0$
+
+$\qquad$ 3. $x^2-6x+21=0$
+
+$\qquad$ 4. $x^2=8x+4$
+
+$\qquad$ 5. $x^2+4=-12x$
+
+$\qquad$ 6. $x^2+3x-8=0$
+
+$\qquad$ 7. $4x^2-4x+11=0$
+
+$\qquad$ 8. $-2x^2+4x+1=0$
+
+$\qquad$ 9. $4x^2=-7x+15$
+
+$\qquad$ 10. $3x^2+1=5x$
+
+$\qquad$ B. Solve. 
+
+$\qquad$ A rocket is launched straight up from the side of a cliff 43.89 m high. If the initial velocity (v) is 34.14 $\qquad$ m/sec and the height (H) is given by the formula $𝐻 = −16𝑡^2 + 𝑣𝑡 + ℎ$, find the time at which the $\qquad$ rocket will hit the ground.
+
+#### **VII. ASSIGNMENT**
+
+$\qquad$ A. Find the solution of the following equation using quadratic formula.
+
+$\qquad$ 1. $2x^2+x-6=0$
+
+$\qquad$ 2. $3x^2+1=5x$
+
+$\qquad$ 3. $2x^2+5x-4=0$
+
+$\qquad$ 4. $4x^2+20x=-25$
+
+$\qquad$ 5. $7x^2+10=37x$
+
+$\qquad$ B. Analyze the given situation to answer the problem.
+
+$\qquad$ A cliff diver jumps from about 17m above the water. His height in meters from the water t seconds $\qquad$ after he jumps is given by the formula $h = -4.9t2 + 1.5t + 17$. How long will it take for the diver $\qquad$ to reach the water?
+
+#### **VIII. EVALUATION** 
+
+$\qquad$ Now, let's assess your understanding of the lesson through a 5-item test.
+
+$\qquad$ **Directions:**
+
+$\qquad$ Find the solutions of each of the following quadratic equations using the quadratic formula. Show $\qquad$ your complete solution. Write your answer on a clean sheet of bond paper.
+
+$\qquad$ 1. $2(x^2-2x)=5$
+
+$\qquad$ 2. $4x^2=-7x+15$
+
+$\qquad$ 3. $7x^2-37x+10=0$
+
+$\qquad$ 4. $ 4x^2+20x=-25$
+
+$\qquad$ 5. $ 2x^2+5x-4=0$
+
+
+#### **IX. REFERENCES**
+
+$\qquad$ Dugopolski, Mark.2006. Elementary and Intermediate Algebra 2nd edition. MCGraw-Hill.New York $\qquad$ City
+
+$\qquad$ Kaufmann, Jerome, Intermediate Algebra for College Students, PWS-KENT Pubishing Company, $\qquad$ $\qquad$ Boston USA
+
+$\qquad$ MacKeague, Charles, Intermediate Algebra, Concepts and Graphs. Saunders College Publishing, USA
+
+$\qquad$ Mathematics 9 Learner’s Material, Department of Education
+
+$\qquad$ Ogena, Ester, et. al. Our Math Grade 9. Mc Graw Hill, Vibal Group. Inc.
+
+
