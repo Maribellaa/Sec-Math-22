@@ -81,7 +81,7 @@ $\qquad$ The quadratic equation that can be formed from the story model earlier 
 
 #### **ACTIVITY 2: Follow the Standards!**
 
-$\qquad$W rite the following quadratic equations in standard form, $ax^2+bx+c=0$. Then, identify the $\qquad$ $\qquad$ values of a, b, and c.
+$\qquad$Write the following quadratic equations in standard form, $ax^2+bx+c=0$. Then, identify the $\qquad$ $\qquad$ values of a, b, and c.
 
 $\qquad$ 1. $2x^2+9x=10$
 
