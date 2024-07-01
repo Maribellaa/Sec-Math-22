@@ -1,0 +1,339 @@
+---
+title: "Solving Quadratic Equation Using Quadratic Formula"
+author: "Maribel O. Espiritu & Teofilo F. Mendejar Jr."
+format: pptx
+editor: visual
+---
+
+## Prayer
+
+**LET US PRAY**
+
+## Attendance
+
+**ATTENDANCE CHECK**
+
+## Classroom Rules {.smaller}
+
+**E**ngage actively
+
+**Q**uestion respectfully
+
+**U**se time wisely
+
+**A**lways raise your hand if you want to speak.
+
+**T**hink critically
+
+**I**nteract thoughtfully.
+
+**O**bserve rules at all times
+
+**N**urture respect and kindness
+
+## REVIEW {.smaller}
+
+**ACTIVITY 1: Follow the Standards!**
+
+**Directions**. I will flash quadratic equations on the screen and the one who will raise his/her hand first will be the one to answer. 1 correct answer is equivalent to 1 point. Whoever got the highest score will receive reward after our discussion.
+
+## 1
+
+$$3x^2+15x=0$$
+
+## 2
+
+$$-x^2-6x+9=0$$
+
+## 3
+
+$$x^2+11x=-24$$
+
+## 4
+
+$$4x^2+4x-15=0$$
+
+## 5
+
+$$6x^2+18x-80=0$$
+
+## Objectives {.smaller}
+
+At the end of the lesson, the learners should be able to:
+
+$\qquad$ a. Derive quadratic formula from standard form.
+
+$\qquad$ b. Solve quadratic equation using the quadratic formula.
+
+$\qquad$ c. Show mastery in solving quadratic equation using the $\qquad$ quadratic formula.
+
+## ACTIVITY 2: Find My Roots!
+
+In this activity, I will group you into four groups. Work together with your groups to solve the roots of quadratic equation using extracting square roots, factoring, and completing the square. I will flash the equation in the screen, and you are only given 1 minute to solve the problem.
+
+## Find My Roots!
+
+$$-16t^2+3.05t+9.14=0$$
+
+## ACTIVITY 3. It’s Good to Be Simple!
+
+In this activity, you are given 15 seconds to solve each expression. Write your answer in the whiteboard. After I count 1 to 3, each group will raise their answer.
+
+## 1
+
+$$\dfrac{6+ \sqrt{9}}{2(3)}$$
+
+## 2
+
+$$\dfrac{-6+ \sqrt{18}}{2(2)}$$
+
+## 3
+
+$$\dfrac{-9+ \sqrt{24}}{2(2)}$$
+
+## 4
+
+$$\dfrac{-10+ \sqrt{10^2-52}}{2(3)}$$
+
+## 5
+
+$$\dfrac{-5+ \sqrt{5^2-4(3)(2)}}{2(3)}$$
+
+## Quadratic Formula
+
+Where was the quadratic formula derived from?
+
+The quadratic formula, $x=\dfrac{-b\pm \sqrt{b^2-4ac}}{2a}$, is derived from standard form of quadratic equation, $ax^2+bx+c=0$ by applying the method of completing the square.
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+1.  Place the constant term on the right side of the equation. All the terms with unknowns are on the left side.
+
+$$ax^2+bx+c=0 \to ax^2+bx=-c$$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+2.  Divide each term of the equation with the numerical coefficient of $x^2$ if necessary.
+
+$$\dfrac{ax^2+bx}{a}=\dfrac{-c}{a} \to x^2+\frac{bx}{a}=\dfrac{-c}{a}$$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+3.  Get the numerical coefficient of x, divide it by 2 and square it. Add the result to both sides of the equation.
+
+$$\dfrac{1}{2} \left( \dfrac{b}{2a} \right) = \dfrac{b}{2a} \to \left( \dfrac{b}{2a} \right)^2 = \dfrac{b^2}{4a^2}$$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+4.  Factor the perfect square trinomial.
+
+$$ x^2 + \dfrac{bx}{a} + \dfrac{b^2}{4a^2} = \dfrac{-c}{a} + \dfrac{b^2}{4a^2} \to \left( x + \dfrac{b}{2a} \right)^2 = \dfrac{b^2-4ac}{4a^2}$$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+5.  Extract the square root from both sides. Two values will be obtained for the right side of the equation.
+
+$$ x+\dfrac{b}{2a} = \pm \sqrt {\dfrac{b^2-4ac}{4a^2}} \to x+\dfrac{b}{2a} = \pm \dfrac{\sqrt{b^2-4ac}}{2a} $$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+6.  Solve for x by transposing $\dfrac{b}{2a}$ on the right of the equation.
+
+$$ x = \pm \dfrac{\sqrt{b^2-4ac}}{2a} -\dfrac{b}{2a}$$
+
+## STEPS {.smaller transition="fade-in fade-out"}
+
+7.  Combine like terms on the right side.
+
+$$ x = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+1.$2x^2+3x-27=0$
+
+**Solution:**
+
+$a=2$, $b=3$, and $c=-27$
+
+$$
+\begin{aligned}
+x & = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-3 \pm \sqrt{(3)^2-4(2)(-27)}}{2(2)} && \text{Substitute the values of a, b and c}\end{aligned}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{-3 \pm \sqrt{9-(-26)}}{4} && \text{Simplify} \\
+x&= \dfrac{-3 \pm \sqrt{225}}{4} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-3 \pm 15}{4}\end{aligned}
+$$ 
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{-3 + 15}{4} \qquad x=\dfrac{-3 -15}{4} && \text{Simplify} \\
+x&= \dfrac{12}{4} \qquad x=\dfrac{-18}{4} \\
+x&= 3 \qquad x=\dfrac{-9}{2}
+\end{aligned}
+$$ The roots are $3$ and $\dfrac{-9}{2}$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+2.  $2x^2+9x=-10$
+
+**Solution**
+
+When $2x^2+9x=-10$ is changed to standard form, we have $2x^2+9x+10=0$. The value of $a=2$, $b=9$, and $c=10$
+
+$$
+\begin{aligned}
+x& = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-9 \pm \sqrt{(9)^2-4(2)(10)}}{2(2)} && \text{Substitute the values of a, b and c} \end{aligned}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$\begin{aligned}
+x&= \dfrac{-9 \pm \sqrt{81-80}}{4} && \text{Simplify} \\
+x&= \dfrac{-9 \pm \sqrt{1}}{4} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-9 \pm 1}{4} \end{aligned}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{-9+1}{4}, \qquad x=\dfrac{-9-1}{4} && \text{Simplify} \\
+x&= \dfrac{-8}{4}, \qquad x=\dfrac{-10}{4} \\
+x&= -2, \qquad x=\dfrac{-5}{2}
+\end{aligned}
+$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+3.  $3x^2+4x=0$
+
+**Solution**
+
+ $a=3$, $b=4$, and $c=0$
+
+$$
+\begin{aligned}
+x& = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-4 \pm \sqrt{(4)^2-4(3)(0)}}{2(3)} && \text{Substitute the values of a, b and c} 
+\end{aligned}
+$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{-4 \pm \sqrt{16-0}}{6} && \text{Simplify} \\
+x&= \dfrac{-4 \pm \sqrt{16}}{6} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{-4\pm 4}{4}
+\end{aligned}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{-4+4}{6}, \qquad x=\dfrac{-4-4}{6} && \text{Simplify} \\
+x&= \dfrac{0}{6}, \qquad x=\dfrac{-8}{6} \\
+x&= 0, \qquad x=\dfrac{-4}{3}
+\end{aligned}
+$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+4.  $-5x^2-6x+7=0$
+
+**Solution**
+
+The value of $a=9$, $b=-6$, and $c=7$
+
+$$
+\begin{aligned}
+x& = \dfrac{-b \pm \sqrt{b^2-4ac}}{2a} && \text{Quadratic Formula} \\
+x&= \dfrac{-(-6) \pm \sqrt{(-6)^2-4(-5)(7)}}{2(-5)} && \text{Substitute the values of a, b and c} \end{aligned}
+$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{6 \pm \sqrt{36+140}}{-10} && \text{Simplify} \\
+x&= \dfrac{6 \pm \sqrt{176}}{-10} && \text{Evaluate the square root, if possible} \\
+x&= \dfrac{6 \pm 4\sqrt{11}}{4} \end{aligned}$$
+
+## Example {.smaller transition="fade-in fade-out"}
+
+$$
+\begin{aligned}
+x&= \dfrac{6+ 4\sqrt{11}}{-10}, \qquad x=\dfrac{6- 4\sqrt{11}}{-10}  && \text{Simplify} \\
+x&= \dfrac{3+ 2\sqrt{11}}{-5},  \qquad x=\dfrac{3- 2\sqrt{11}}{-5}\\
+x&= \dfrac{-3-2\sqrt{11}}{5}, \qquad x=\dfrac{-3+ 2\sqrt{11}}{5}
+\end{aligned}
+$$
+
+## TRY THIS
+
+$$3x^2+4x=0$$
+
+## TRY THIS
+
+$$9x^2-6x+5$$
+
+## ACTIVITY 4: Solve and Mount
+
+**Directions:** Find the roots of the following quadratic equation using quadratic formula. Solve the following equation and choose the correct answer from the set of cards inside the envelope and mount into the space below each equation.
+
+$x^2-2x-35=0$ $\qquad$ $3x^2- 4x=1$
+
+$x^2-3x+1 =0$ $\qquad$ $2x^2=11x-5$
+
+$2x^2-x-5 =0$ $\qquad$ $x^2+6x-3=0$
+
+## SET OF ANSWERS
+
+$x=-3 \pm 2\sqrt{3}$
+
+$x=-5, \qquad x=7$
+
+$x=\dfrac{3 \pm \sqrt{5}}{2}$
+
+$x=\dfrac{1 \pm \sqrt{41}}{4}$
+
+$x=\dfrac{2 \pm \sqrt{7}}{3}$
+
+$x=\dfrac{1}{2}, \qquad x=5$
+
+## Assessment
+
+**Directions.** Find the solutions of each of the following quadratic equations using the quadratic formula. Show your complete solution. Write your answer on a clean sheet of bond paper.
+
+$\qquad$ 1. $2(x^2-2x)=5$
+
+$\qquad$ 2. $4x^2=-7x+15$
+
+$\qquad$ 3. $7x^2-37x+10=0$
+
+## ADDITIONAL ASSIGNMENT
+
+Write your answers on a clean sheet of paper or bond paper.
+
+$\qquad$ A. Find the solution of the following equation using quadratic formula.
+
+$\qquad$ 1. $2x^2+x-6=0$
+
+$\qquad$ 2. $3x^2+1=5x$
+
+$\qquad$ 3. $2x^2+5x-4=0$
+
+$\qquad$ 4. $4x^2+20x=-25$
+
+$\qquad$ 5. $7x^2+10=37x$
+
+## END
+
+**GOODBYE CLASS! SEE YOU AGAIN TOMORROW**
+
